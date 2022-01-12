@@ -1,7 +1,8 @@
 package net.oasismgt.tin_service_generation.local.constants;
 
 
-public enum LineOfBusiness{
+public enum LineOfBusiness
+{
         _210("210","Repair of machinery"),
 	_100("100","Repair of electronic and optical equipment"),
 	_3310("3310","Repair of electrical equipment"),
@@ -34,3 +35,4 @@ private LineOfBusiness(String code,String title){
 	}
 	
 }
+
